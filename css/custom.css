@@ -1,0 +1,28 @@
+h1 {
+  font-size: 34px; }
+
+h2 {
+  font-size: 22px; }
+
+.logotype {
+  margin-top: 3em; }
+  .logotype.sticky {
+    position: fixed; }
+
+.search-services ul {
+  padding-left: 0px;
+  list-style: none; }
+  .search-services ul li {
+    margin-bottom: 0.5em; }
+    .search-services ul li a {
+      display: block; }
+
+.social-media ul {
+  list-style: none;
+  padding-left: 0px; }
+  .social-media ul i {
+    color: black; }
+
+.contact dt {
+  margin-top: 0.5em;
+  margin-bottom: 0.25em; }
